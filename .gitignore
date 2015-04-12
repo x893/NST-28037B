@@ -30,3 +30,12 @@
 
 # Debug files
 *.dSYM/
+
+*.b#?
+*.s#?
+*.l#?
+
+build/
+*.uvgui
+*.uvgui.*
+*.uvopt
